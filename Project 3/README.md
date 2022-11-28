@@ -1,3 +1,5 @@
+IST 718 Big Data Analytics 
+
 Work for this project was divided between general model train/eval and real time image processing.
 
 Code for these two general areas was kept sepearate for division of group labor and individual operating system dependencies
